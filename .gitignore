@@ -1,0 +1,9 @@
+.env
+.env.local
+.DS_Store
+node_modules/
+
+# 로컬 전용 자료 (GitHub 로 올리지 않음)
+aidxon\ home.txt
+sample\ site.png
+주식회사-에딕슨_로고원본.png
