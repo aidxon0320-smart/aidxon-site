@@ -7,8 +7,10 @@ node_modules/
 # 문서/원본 자료 (배포 불필요)
 CLAUDE.md
 *.txt
-*.png
 주식회사-에딕슨_로고원본.png
+sample site.png
+setup_guide.md
+DEPLOY.md
 
 # Supabase 설정 (서버측, 배포 불필요)
 supabase/
